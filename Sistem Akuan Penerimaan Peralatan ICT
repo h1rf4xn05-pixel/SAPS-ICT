@@ -1,1 +1,20 @@
+SAPS-ICT merupakan sebuah sistem berasaskan web yang dibangunkan untuk membantu pengurusan peralatan ICT, maklumat sekolah, pesanan/sewaan peralatan, status peralatan, permohonan penyelenggaraan dan penyampaian maklumat secara berpusat.
 
+Sistem ini dibangunkan menggunakan teknologi web seperti PHP, MySQL, HTML, CSS dan JavaScript.
+
+SAPS-ICT direka untuk memudahkan proses pengurusan peralatan ICT antara pihak pentadbir dan sekolah.
+
+Antara fungsi utama sistem ialah:
+
+Pengurusan peralatan ICT
+Pengurusan katalog peralatan
+Pengurusan sekolah
+Pengurusan pesanan/sewaan
+Semakan status peralatan
+Permohonan penyelenggaraan
+Pengurusan akaun pentadbir
+Profil sekolah
+Pengumuman dan maklumat
+Sistem notifikasi
+Pengurusan kata laluan
+Dashboard statistik
